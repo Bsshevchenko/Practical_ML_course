@@ -1,7 +1,8 @@
 # Practical ML course
 
-This repository contains my practice from the Practical ML course
+This repository contains my practice from the Practical ML course 
 
+# Contents
 <li>Introduction to Machine Learning
 <li>Linear regression models
 <li>Gradient descent
